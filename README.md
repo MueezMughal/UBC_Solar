@@ -14,9 +14,9 @@ Outside of engineering, I spend most of my time **hiking and skiing** across Alb
 
 ### 🚗 Current Projects
 
-> ⚡ **Explore My Work:**  
-> Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
-> You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
+**Explore My Work:**  
+Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
+You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
 
 ---
 
