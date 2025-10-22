@@ -4,7 +4,7 @@ I’m a **Mechanical Engineering student at the University of British Columbia**
 
 I currently work as a **Mechanical Engineering Intern at Suncor Energy**, where I design and implement Python-based physics models to improve the reliability of Electric Submersible Pumps (ESPs) used in SAGD operations. By modeling well dynamics and solids behavior, I’ve helped identify early signs of production inefficiencies, enabling proactive maintenance and reducing costly downtime. One of my most impactful contributions was developing an algorithm to detect snapped ESP shafts without performing boiler feedwater flushes, saving both production time and operational resources.
 
-At **UBC Solar**, I lead the **Vehicle Dynamics team**, contributing to the design of our fourth-generation solar car. My focus areas include **suspension design, structural analysis, and ergonomic integration**. I designed and validated the front lower control arms and carbon-fiber steering wheel assembly using **SolidWorks** and **ANSYS**, achieving significant weight reductions while maintaining stiffness and safety under race conditions. I also conducted a mini research study on **pull-rod rocker suspension geometry**, modeling the system as a 2DOF dynamic model and applying Fourier analysis to understand ride dynamics and compliance.
+At **UBC Solar**, I lead the **Vehicle Dynamics team**, contributing to the design of our fourth-generation solar car. My focus areas include **suspension design, structural analysis, and ergonomic integration**. I designed and validated the lower control arms and aluminum steering wheel assembly using **SolidWorks** and **ANSYS**, achieving significant weight reductions while maintaining stiffness and safety under race conditions. I also conducted a mini research study on **pull-rod rocker suspension geometry**, modeling the system as a 2DOF dynamic model and applying Fourier analysis to understand ride dynamics and compliance.
 
 I’m passionate about turning complex engineering theory into **functional, real-world systems**, from control algorithms and embedded code to high-precision CAD and FEA simulations. I enjoy working across disciplines, connecting hardware and software to create systems that are efficient, manufacturable, and robust.
 
@@ -27,7 +27,7 @@ Please explore the various **branches** in this repository to see detailed write
 ---
 
 ### 🌲 Outside the Lab
-When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
+When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
 
 ---
 
