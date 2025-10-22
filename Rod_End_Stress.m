@@ -13,7 +13,6 @@ input_force_out = input_force_out * 0.2248089431; %[N] -> [lbs]
 % Loading on tilted rod end
 uv_force = A * input_force_out;
 
-% simulating second strongest rod end cell I44 in bearing selection sheet
 stress_out = uv_force(1) / At + 32 * (uv_force(2) * d) / (pi * dr^3);
 
 SF_out = stress_cap / (stress_out * 3); 
