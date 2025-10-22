@@ -1,4 +1,4 @@
-# Hi, I’m Mueez 👋
+# Hi, I’m Mueez
 
 I’m a **Mechanical Engineering student at the University of British Columbia**, specializing in **Mechatronics**. My work sits at the intersection of **mechanical design**, **embedded systems**, and **data-driven problem solving** — areas where I can bring together creativity, precision, and practical engineering.
 
@@ -22,10 +22,7 @@ Outside of engineering, I spend most of my time **hiking and skiing** across Alb
 ---
 
 ### 🚗 Current Projects
-- **UBC Solar – Lower Control Arm Design:** Structural optimization and FEA validation of front suspension control arms.  
-- **UBC Solar – Steering Wheel System:** Carbon fiber structure integrating electronics and quick-release hub.  
-- **Suncor ESP Models:** Python-based physical models for ESP efficiency, solids detection, and failure prediction.  
-- **Autonomous Navigation System:** LiDAR-based mapping and control system for indoor robot localization.
+Please explore the various **branches** in this repository to see detailed write-ups and documentation of the projects I’ve worked on — including mechanical design, embedded systems, and data modeling projects completed through **UBC Solar**, **Suncor**, and **personal research initiatives**.
 
 ---
 
@@ -36,4 +33,4 @@ When I’m not designing or coding, you’ll usually find me **hiking, skiing, o
 
 📫 **Let’s Connect!**  
 If you’d like to collaborate, discuss engineering, or just talk, feel free to reach out:  
-📧 mueezmmughal7@gmail.com
+📧 **mueezmmughal7@gmail.com**
