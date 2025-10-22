@@ -12,17 +12,20 @@ Outside of engineering, I spend most of my time **hiking and skiing** across Alb
 
 ---
 
+### 🚗 Current Projects
+
+> ⚡ **Explore My Work:**  
+> Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
+> You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
+
+---
+
 ### 🧰 Technical Skills
 - **Design & Simulation:** SolidWorks, ANSYS, Fusion 360, MATLAB  
 - **Programming & Data Analysis:** Python, C, LabVIEW, Excel, Power BI  
 - **Embedded Systems:** STM32, ESP32, Arduino, Circuit Design, Soldering  
 - **Fabrication:** Milling, Lathing, Drilling, Composite Layup, Woodworking  
 - **Other Tools:** PI System, Git/GitHub, Root Cause Failure Analysis (RCFA)
-
----
-
-### 🚗 Current Projects
-Please explore the various **branches** in this repository to see detailed write-ups and documentation of the projects I’ve worked on, including mechanical design, embedded systems, and data modeling projects completed through **UBC Solar**, **Suncor**, and **personal research initiatives**.
 
 ---
 
