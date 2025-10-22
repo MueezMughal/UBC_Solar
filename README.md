@@ -1,7 +1,7 @@
 # UBC Solar – Lower Control Arm Design (Gen 4 Vehicle)
 
 ## Overview
-This branch documents the **design, analysis, and validation** of the front suspension lower control arms for **UBC Solar’s fourth-generation solar vehicle**.  
+This branch documents the **design, analysis, and validation** of the suspension lower control arms for **UBC Solar’s fourth-generation solar vehicle**.  
 The project focuses on achieving an optimal balance between **performance**, **manufacturability**, and **structural integrity** under race conditions.
 
 ## Objectives
@@ -14,7 +14,7 @@ The project focuses on achieving an optimal balance between **performance**, **m
 - Designed and modeled control arms using **SolidWorks**  
 - Performed **ANSYS FEA** simulations to verify stress and fatigue safety  
 - Conducted a mini research study on **suspension geometry** using a **2DOF dynamic model** converted into a **Fourier series** to analyze ride behavior  
-- Achieved a **50% weight reduction** by replacing steel with a **high-strength aluminum alloy**  
+- Achieved a **50% weight reduction** by replacing steel with a **aluminum 6061 T6**  
 - Produced detailed **engineering drawings** for manufacturing  
 
 ## Technologies Used
