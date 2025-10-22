@@ -2,6 +2,8 @@
 
 > ⚠️ **Note:** This project reached full **design completion and validation**; however, the team ultimately chose to proceed with an **aluminum 6061-T6 baseplate** due to time constraints and material testing limitations for the composite prototype.
 
+https://ubcsolar.com/
+
 ## Overview
 This branch documents the **design, analysis, and fabrication-ready model** of the steering wheel for **UBC Solar’s third-generation solar vehicle**.  
 The redesign focused on improving **ergonomics, weight distribution, and electronic integration**, while ensuring structural reliability and manufacturability under racing conditions.
