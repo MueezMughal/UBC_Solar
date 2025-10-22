@@ -1,4 +1,4 @@
-# Hi, I’m Mueez 👋
+# Hi, I’m Mueez�
 
 I’m a **Mechanical Engineering student at the University of British Columbia**, specializing in **Mechatronics**. My work sits at the intersection of **mechanical design**, **embedded systems**, and **data-driven problem solving**, areas where I can bring together creativity, precision, and practical engineering.
 
