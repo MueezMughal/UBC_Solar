@@ -18,11 +18,12 @@ The redesign focused on improving **ergonomics, weight distribution, and electro
 - Designed the full steering wheel assembly and hub interface in **SolidWorks**, incorporating ergonomic grip geometry and switch placement  
 - Conducted **composite FEA simulations** in **ANSYS ACP** to assess fiber orientation, strength, and deflection under torsional and bending loads  
 - Compared composite and aluminum variants, leading to the final selection of an **aluminum 6061-T6 baseplate** for reliability and ease of machining  
+- Designed a **custom flange system** that allows the spline of the quick-release hub to be **welded to the flange rather than the steering column**, enabling reuse of the steering assembly across future vehicle generations  
 - Collaborated with the **Power & Signals sub-team** to embed a custom PCB and optimize internal wiring and connector routing  
 - Delivered **manufacturing drawings** and assembly documentation for fabrication and integration into the Gen 3 cockpit  
 
 ## Technologies Used
-`SolidWorks` • `ANSYS ACP` • `Composite FEA` • `Aluminum 6061-T6` • `PCB Integration` • `Driver Ergonomics`
+`SolidWorks` • `ANSYS ACP` • `Composite FEA` • `Aluminum 6061-T6` • `PCB Integration` • `Driver Ergonomics` • `Welding` • `Weighted Decision Matrix`
 
 ## Author
 **Mueez Mughal**  
