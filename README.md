@@ -1,39 +1,28 @@
-# Hi, I’m Mueez
+# UBC Solar – Steering Wheel Redesign (Gen 3 Vehicle)
 
-I’m a **Mechanical Engineering student at the University of British Columbia**, specializing in **Mechatronics**. My work sits at the intersection of **mechanical design**, **embedded systems**, and **data-driven problem solving**, areas where I can bring together creativity, precision, and practical engineering.
+> ⚠️ **Note:** This project reached full **design completion and validation**; however, the team ultimately chose to proceed with an **aluminum 6061-T6 baseplate** due to time constraints and material testing limitations for the composite prototype.
 
-I currently work as a **Mechanical Engineering Intern at Suncor Energy**, where I design and implement Python-based physics models to improve the reliability of Electric Submersible Pumps (ESPs) used in SAGD operations. By modeling well dynamics and solids behavior, I’ve helped identify early signs of production inefficiencies, enabling proactive maintenance and reducing costly downtime. One of my most impactful contributions was developing an algorithm to detect snapped ESP shafts without performing boiler feedwater flushes, saving both production time and operational resources.
+## Overview
+This branch documents the **design, analysis, and fabrication-ready model** of the steering wheel for **UBC Solar’s third-generation solar vehicle**.  
+The redesign focused on improving **ergonomics, weight distribution, and electronic integration**, while ensuring structural reliability and manufacturability under racing conditions.
 
-At **UBC Solar**, I lead the **Vehicle Dynamics team**, contributing to the design of our fourth-generation solar car. My focus areas include **suspension design, structural analysis, and ergonomic integration**. I designed and validated the lower control arms and steering wheel assembly using **SolidWorks** and **ANSYS**, achieving significant weight reductions while maintaining stiffness and safety under race conditions. I also conducted a mini research study on **pull-rod rocker suspension geometry**, modeling the system as a 2DOF dynamic model and applying Fourier analysis to understand ride dynamics and compliance.
+## Objectives
+- Develop a **lightweight, driver-centric steering wheel** for improved comfort and performance  
+- Integrate **signal routing** through an embedded PCB to streamline wiring and assembly  
+- Validate **composite and aluminum alternatives** through FEA to ensure stiffness and safety  
+- Ensure manufacturability with **clear tolerancing and mounting compatibility** with the quick-release hub  
 
-I’m passionate about turning complex engineering theory into **functional, real-world systems**, from control algorithms and embedded code to high-precision CAD and FEA simulations. I enjoy working across disciplines, connecting hardware and software to create systems that are efficient, manufacturable, and robust.
+## Key Work
+- Designed the full steering wheel assembly and hub interface in **SolidWorks**, incorporating ergonomic grip geometry and switch placement  
+- Conducted **composite FEA simulations** in **ANSYS ACP** to assess fiber orientation, strength, and deflection under torsional and bending loads  
+- Compared composite and aluminum variants, leading to the final selection of an **aluminum 6061-T6 baseplate** for reliability and ease of machining  
+- Collaborated with the **Power & Signals sub-team** to embed a custom PCB and optimize internal wiring and connector routing  
+- Delivered **manufacturing drawings** and assembly documentation for fabrication and integration into the Gen 3 cockpit  
 
-Outside of engineering, I spend most of my time **hiking and skiing** across Alberta and British Columbia. Whether it’s designing a part or navigating a trail, I’m drawn to challenges that push me to think critically, adapt quickly, and create something meaningful from the process.
+## Technologies Used
+`SolidWorks` • `ANSYS ACP` • `Composite FEA` • `Aluminum 6061-T6` • `PCB Integration` • `Driver Ergonomics`
 
----
-
-### 🚗 Current Projects
-
-**Explore My Work:**  
-Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
-You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
-
----
-
-### 🧰 Technical Skills
-- **Design & Simulation:** SolidWorks, ANSYS, Fusion 360, MATLAB  
-- **Programming & Data Analysis:** Python, C, LabVIEW, Excel, Power BI  
-- **Embedded Systems:** STM32, ESP32, Arduino, Circuit Design, Soldering  
-- **Fabrication:** Milling, Lathing, Drilling, Composite Layup, Woodworking  
-- **Other Tools:** PI System, Git/GitHub, Root Cause Failure Analysis (RCFA)
-
----
-
-### 🌲 Outside the Lab
-When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
-
----
-
-📫 **Let’s Connect!**  
-If you’d like to collaborate, discuss engineering, or just talk, feel free to reach out:  
-📧 **mueezmmughal7@gmail.com**
+## Author
+**Mueez Mughal**  
+Mechanical Engineering | UBC Solar – Vehicle Dynamics  
+📧 mueezmmughal7@gmail.com
