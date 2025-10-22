@@ -23,4 +23,4 @@ The project focuses on achieving an optimal balance between **performance**, **m
 ## Author
 **Mueez Mughal**  
 Mechanical Engineering | UBC Solar – Vehicle Dynamics  
-📧 mmugha01@student.ubc.ca
+📧 mueezmmughal7@gmail.com
