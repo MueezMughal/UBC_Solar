@@ -12,7 +12,7 @@ By combining **fluid mechanics modeling**, **PI data aggregation**, and **Python
 - Identify and mitigate **solids-related inefficiencies** in ESP wells (sand, scale, or corrosion products)  
 - Develop a **physics-based model** using the **energy equation** to estimate ideal hydraulic power  
 - Compare modeled vs. measured power to infer frictional and mechanical losses  
-- Create a **diagnostic algorithm** capable of flagging **shaft failures** before catastrophic breakdowns  
+- Create a **diagnostic algorithm** capable of flagging **shaft failures**
 - Integrate results into existing **PI Vision workflows** for field engineer accessibility  
 
 ## Key Work
