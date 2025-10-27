@@ -3,7 +3,7 @@
 > ⚠️ **Note:** This project involved confidential facility and production data from Suncor’s Firebag SAGD site. All process values and identifiers have been redacted for privacy.
 
 ## Overview
-This project showcases the development of a **comprehensive PI Vision dashboard system** that visualizes the **flow of gas and emulsion from the subsurface to the central processing plant**.  
+This project showcases the development of a **comprehensive PI Vision dashboard system** that visualizes the **flow of gas and emulsion from subsurface wells to the central processing plant**.  
 The system was designed to help engineers quickly locate production bottlenecks, streamline communication between field and exploitation teams, and enhance overall operational efficiency across Firebag’s SAGD operations.
 
 ## Objectives
