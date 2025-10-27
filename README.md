@@ -1,39 +1,33 @@
-# Hi, I’m Mueez
+# Suncor – ESP Diagnostics and Solids Analysis (Firebag SAGD Site)
 
-I’m a **Mechanical Engineering student at the University of British Columbia**, specializing in **Mechatronics**. My work sits at the intersection of **mechanical design**, **embedded systems**, and **data-driven problem solving**, areas where I can bring together creativity, precision, and practical engineering.
+> ⚠️ **Note:** This project involved confidential field data from Suncor’s Firebag SAGD operations. All numerical and operational details have been redacted for privacy.
 
-I currently work as a **Mechanical Engineering Intern at Suncor Energy**, where I design and implement Python-based physics models to improve the reliability of Electric Submersible Pumps (ESPs) used in SAGD operations. By modeling well dynamics and solids behavior, I’ve helped identify early signs of production inefficiencies, enabling proactive maintenance and reducing costly downtime. One of my most impactful contributions was developing an algorithm to detect snapped ESP shafts without performing boiler feedwater flushes, saving both production time and operational resources.
+## Overview
+This project documents the development of a **data-driven diagnostic tool** for **Electric Submersible Pumps (ESPs)** operating in SAGD wells at **Suncor’s Firebag site**.  
+Initially focused on investigating **solids-related performance losses**, the work evolved into a method for **detecting snapped ESP shafts** on legacy PADs **without torque sensors**—using purely electrical and hydraulic data.  
 
-At **UBC Solar**, I lead the **Vehicle Dynamics team**, contributing to the design of our fourth-generation solar car. My focus areas include **suspension design, structural analysis, and ergonomic integration**. I designed and validated the lower control arms and steering wheel assembly using **SolidWorks** and **ANSYS**, achieving significant weight reductions while maintaining stiffness and safety under race conditions. I also conducted a mini research study on **pull-rod rocker suspension geometry**, modeling the system as a 2DOF dynamic model and applying Fourier analysis to understand ride dynamics and compliance.
+By combining **fluid mechanics modeling**, **PI data aggregation**, and **Python-based analytics**, the tool provides real-time insight into ESP health and operational efficiency.
 
-I’m passionate about turning complex engineering theory into **functional, real-world systems**, from control algorithms and embedded code to high-precision CAD and FEA simulations. I enjoy working across disciplines, connecting hardware and software to create systems that are efficient, manufacturable, and robust.
+## Objectives
+- Identify and mitigate **solids-related inefficiencies** in ESP wells (sand, scale, or corrosion products)  
+- Develop a **physics-based model** using the **energy equation** to estimate ideal hydraulic power  
+- Compare modeled vs. measured power to infer frictional and mechanical losses  
+- Create a **diagnostic algorithm** capable of flagging **shaft failures** before catastrophic breakdowns  
+- Integrate results into existing **PI Vision workflows** for field engineer accessibility  
 
-Outside of engineering, I spend most of my time **hiking and skiing** across Alberta and British Columbia. Whether it’s designing a part or navigating a trail, I’m drawn to challenges that push me to think critically, adapt quickly, and create something meaningful from the process.
+## Key Work
+- Conducted a full **energy balance** from reservoir to wellhead, incorporating head losses, flow rate, and elevation to calculate **ideal ESP power**  
+- Built a **Python pipeline** (Pandas, NumPy, Plotly) to process **~45,000 datapoints per well** at 1-minute resolution  
+- Derived **hydraulic/ideal power ratios** and monitored instability patterns to detect snapped shafts **4–12 hours prior** to failure  
+- Validated the model against historical ESP failures and **chemical stimulation** events, confirming predictive accuracy for solids buildup  
+- Automated data cleaning, aggregation, and visualization via a **modular script** and interactive Plotly dashboard  
+- Proposed integration into the **standard operating procedure (SOP)** for PADs with **legacy variable frequency drives (VFDs)**  
+- Achieved an estimated **annual cost savings of \$2.5 million** through early fault detection and reduced unnecessary flush operations  
 
----
+## Technologies Used
+`Python` • `Pandas` • `NumPy` • `Plotly` • `Excel` • `PI Vision` • `Fluid Mechanics Modeling` • `Root Cause Failure Analysis (RCFA)` • `SAGD ESP Systems`
 
-### 🚗 Current Projects
-
-**Explore My Work:**  
-Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
-You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
-
----
-
-### 🧰 Technical Skills
-- **Design & Simulation:** SolidWorks, ANSYS, Fusion 360, MATLAB  
-- **Programming & Data Analysis:** Python, C, LabVIEW, Excel, Power BI  
-- **Embedded Systems:** STM32, ESP32, Arduino, Circuit Design, Soldering  
-- **Fabrication:** Milling, Lathing, Drilling, Composite Layup, Woodworking  
-- **Other Tools:** PI System, Git/GitHub, Root Cause Failure Analysis (RCFA)
-
----
-
-### 🌲 Outside the Lab
-When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
-
----
-
-📫 **Let’s Connect!**  
-If you’d like to collaborate, discuss engineering, or just talk, feel free to reach out:  
-📧 **mueezmmughal7@gmail.com**
+## Author
+**Mueez Mughal**  
+Production Engineer Intern | Firebag Exploitation, Suncor Energy  
+📧 mmugha01@student.ubc.ca
