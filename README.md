@@ -13,7 +13,7 @@ By combining **fluid mechanics modeling**, **PI data aggregation**, and **Python
 - Develop a **physics-based model** using the **energy equation** to estimate ideal hydraulic power  
 - Compare modeled vs. measured power to infer frictional and mechanical losses  
 - Create a **diagnostic algorithm** capable of flagging **shaft failures**
-- Integrate results into existing **PI Vision workflows** for field engineer accessibility  
+- Integrate results into existing **workflows** for field engineer accessibility  
 
 ## Key Work
 - Conducted a full **energy balance** from reservoir to wellhead, incorporating head losses, flow rate, and elevation to calculate **ideal ESP power**  
