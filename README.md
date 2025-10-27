@@ -22,7 +22,8 @@ By combining **fluid mechanics modeling**, **PI data aggregation**, and **Python
 - Validated the model against historical ESP failures and **chemical stimulation** events, confirming predictive accuracy for solids buildup  
 - Automated data cleaning, aggregation, and visualization via a **modular script** and interactive Plotly dashboard  
 - Integrated into the existing **workflow** for PADs with **legacy variable frequency drives (VFDs)**  
-- Achieved an estimated **annual cost savings of \$2.5 million** through early fault detection and reduced unnecessary flush operations  
+- Achieved an estimated **annual cost savings of \$2.5 million** through early fault detection and reduced unnecessary flush operations
+- **Condensed complex technical findings** into a clear, visual presentation delivered to a **cross-disciplinary audience of ~100 technical professionals**
 
 ## Technologies Used
 `Python` • `Pandas` • `NumPy` • `Plotly` • `Excel` • `PI Vision` • `Fluid Mechanics Modeling` • `Root Cause Failure Analysis (RCFA)` • `SAGD ESP Systems`
