@@ -1,6 +1,6 @@
 # Suncor – Real-Time Production Visualization (Firebag SAGD Site)
 
-> ⚠️ **Note:** This project involved confidential facility and production data from Suncor’s Firebag SAGD site. All process values and identifiers have been redacted for privacy.
+> ⚠️ **Note:** Due to the highly sensitive nature of this work, most details and data cannot be shared publicly. Only the presentation slides summarizing the workflow and outcomes are available for viewing.
 
 ## Overview
 This project showcases the development of a **comprehensive PI Vision dashboard system** that visualizes the **flow of gas and emulsion from subsurface wells to the central processing plant**.  
@@ -19,7 +19,7 @@ The system was designed to help engineers quickly locate production bottlenecks,
 - Incorporated **mass balance calculations** to verify data accuracy and detect inconsistencies in real time  
 - Collaborated with both **Field and Exploitation engineers** to align technical functionality with user needs and plant workflows  
 - Conducted a **case study** following a lightning strike event, using the dashboard to locate **50 m³/hr of missing emulsion (~\$18,000/hr)** in under five minutes  
-- Presented the final system and workflow results to a **cross-disciplinary audience of ~100 engineers**, receiving adoption recommendations for future pad and plant integrations  
+- Presented the final system and workflow results to a **cross-disciplinary audience of ~100 technical professionals**, receiving adoption recommendations for future pad and plant integrations  
 
 ## Technologies Used
 `PI Vision` • `Excel` • `Fluid Mass Balance` • `Process Flow Visualization` • `P&ID Interpretation` • `Production Engineering` • `Data Analytics`
@@ -27,4 +27,4 @@ The system was designed to help engineers quickly locate production bottlenecks,
 ## Author
 **Mueez Mughal**  
 Production Engineer Intern | Firebag Exploitation, Suncor Energy  
-📧 mmugha01@student.ubc.ca
+📧 mueezmmughal7@gmail.com
