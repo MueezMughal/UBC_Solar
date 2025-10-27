@@ -1,6 +1,6 @@
 # Suncor – ESP Diagnostics and Solids Analysis (Firebag SAGD Site)
 
-> ⚠️ **Note:** This project involved confidential field data from Suncor’s Firebag SAGD operations. All operational details have been redacted for privacy.
+> ⚠️ **Note:** This project involved confidential operational data from Suncor’s Firebag SAGD operations. All operational details have been redacted for privacy.
 
 ## Overview
 This project documents the development of a **data-driven diagnostic tool** for **Electric Submersible Pumps (ESPs)** operating in SAGD wells at **Suncor’s Firebag site**.  
