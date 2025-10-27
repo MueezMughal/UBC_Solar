@@ -30,4 +30,4 @@ By combining **fluid mechanics modeling**, **PI data aggregation**, and **Python
 ## Author
 **Mueez Mughal**  
 Production Engineer Intern | Firebag Exploitation, Suncor Energy  
-📧 mmugha01@student.ubc.ca
+📧 mueezmmughal7@gmail.com
