@@ -1,39 +1,30 @@
-# Hi, I’m Mueez
+# Suncor – Real-Time Production Visualization (Firebag SAGD Site)
 
-I’m a **Mechanical Engineering student at the University of British Columbia**, specializing in **Mechatronics**. My work sits at the intersection of **mechanical design**, **embedded systems**, and **data-driven problem solving**, areas where I can bring together creativity, precision, and practical engineering.
+> ⚠️ **Note:** This project involved confidential facility and production data from Suncor’s Firebag SAGD site. All process values and identifiers have been redacted for privacy.
 
-I currently work as a **Mechanical Engineering Intern at Suncor Energy**, where I design and implement Python-based physics models to improve the reliability of Electric Submersible Pumps (ESPs) used in SAGD operations. By modeling well dynamics and solids behavior, I’ve helped identify early signs of production inefficiencies, enabling proactive maintenance and reducing costly downtime. One of my most impactful contributions was developing an algorithm to detect snapped ESP shafts without performing boiler feedwater flushes, saving both production time and operational resources.
+## Overview
+This project showcases the development of a **comprehensive PI Vision dashboard system** that visualizes the **flow of gas and emulsion from the subsurface to the central processing plant**.  
+The system was designed to help engineers quickly locate production bottlenecks, streamline communication between field and exploitation teams, and enhance overall operational efficiency across Firebag’s SAGD operations.
 
-At **UBC Solar**, I lead the **Vehicle Dynamics team**, contributing to the design of our fourth-generation solar car. My focus areas include **suspension design, structural analysis, and ergonomic integration**. I designed and validated the lower control arms and steering wheel assembly using **SolidWorks** and **ANSYS**, achieving significant weight reductions while maintaining stiffness and safety under race conditions. I also conducted a mini research study on **pull-rod rocker suspension geometry**, modeling the system as a 2DOF dynamic model and applying Fourier analysis to understand ride dynamics and compliance.
+## Objectives
+- Build an **intuitive, plant-wide visualization** for emulsion and gas tracking  
+- Map **mass flow relationships** between wells, separators, and process units using **P&IDs and fluid mass balance**  
+- Enable **real-time anomaly detection** and rapid bottleneck resolution  
+- Create a **reusable framework** for future dashboard expansions and cross-team standardization  
 
-I’m passionate about turning complex engineering theory into **functional, real-world systems**, from control algorithms and embedded code to high-precision CAD and FEA simulations. I enjoy working across disciplines, connecting hardware and software to create systems that are efficient, manufacturable, and robust.
+## Key Work
+- Designed and implemented multiple **PI Vision dashboards** for emulsion, gas, and test well data streams  
+- Parsed and interpreted **hundreds of P&IDs** to construct an accurate digital twin of the subsurface-to-plant flow network  
+- Developed interactive visual elements including **KPIs, flow indicators, and node-based navigation**  
+- Incorporated **mass balance calculations** to verify data accuracy and detect inconsistencies in real time  
+- Collaborated with both **Field and Exploitation engineers** to align technical functionality with user needs and plant workflows  
+- Conducted a **case study** following a lightning strike event, using the dashboard to locate **50 m³/hr of missing emulsion (~\$18,000/hr)** in under five minutes  
+- Presented the final system and workflow results to a **cross-disciplinary audience of ~100 engineers**, receiving adoption recommendations for future pad and plant integrations  
 
-Outside of engineering, I spend most of my time **hiking and skiing** across Alberta and British Columbia. Whether it’s designing a part or navigating a trail, I’m drawn to challenges that push me to think critically, adapt quickly, and create something meaningful from the process.
+## Technologies Used
+`PI Vision` • `Excel` • `Fluid Mass Balance` • `Process Flow Visualization` • `P&ID Interpretation` • `Production Engineering` • `Data Analytics`
 
----
-
-### 🚗 Current Projects
-
-**Explore My Work:**  
-Please take a moment to **look through the various branches** in this repository to see detailed write-ups, images, and documentation of the projects I’ve worked on.  
-You’ll find a mix of **mechanical design**, **embedded systems**, and **data modeling** projects from my time at **UBC Solar**, **Suncor**, and through **personal research initiatives**.  
-
----
-
-### 🧰 Technical Skills
-- **Design & Simulation:** SolidWorks, ANSYS, Fusion 360, MATLAB  
-- **Programming & Data Analysis:** Python, C, LabVIEW, Excel, Power BI  
-- **Embedded Systems:** STM32, ESP32, Arduino, Circuit Design, Soldering  
-- **Fabrication:** Milling, Lathing, Drilling, Composite Layup, Woodworking  
-- **Other Tools:** PI System, Git/GitHub, Root Cause Failure Analysis (RCFA)
-
----
-
-### 🌲 Outside the Lab
-When I’m not designing or coding, you’ll usually find me **hiking, skiing, or exploring trails around AB & BC**. I love working on projects that blend technical creativity with hands-on experience, whether that’s in the machine shop, on a mountain, or in the middle of a debugging session.
-
----
-
-📫 **Let’s Connect!**  
-If you’d like to collaborate, discuss engineering, or just talk, feel free to reach out:  
-📧 **mueezmmughal7@gmail.com**
+## Author
+**Mueez Mughal**  
+Production Engineer Intern | Firebag Exploitation, Suncor Energy  
+📧 mmugha01@student.ubc.ca
