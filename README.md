@@ -1,6 +1,6 @@
 # Suncor – ESP Diagnostics and Solids Analysis (Firebag SAGD Site)
 
-> ⚠️ **Note:** This project involved confidential operational data from Suncor’s Firebag SAGD operations. All operational details and data have been redacted. The repository contains **code structure, figures, and synthetic/demo examples only** to illustrate the methodology.
+> ⚠️ **Note:** This project involved confidential operational data from Suncor’s Firebag SAGD operations. All operational details and data have been redacted. The repository contains **code structure and figures** to illustrate the methodology.
 
 ---
 
@@ -12,7 +12,6 @@ The platform combines:
 - 3-phase induction motor and VFD signal analysis  
 - Fluid mechanics & energy balance modeling for ideal hydraulic power  
 - Python-based analytics and visualization for real-time diagnostics  
-- PI Vision dashboards for operations-facing decision support  
 
 ---
 
@@ -21,7 +20,7 @@ The platform combines:
 - Build a physics-based model using the energy equation to estimate ideal hydraulic power  
 - Compare measured vs. modeled power to infer frictional and mechanical losses  
 - Implement a diagnostic algorithm to flag and immediately classify snapped-shaft failures on legacy equipment lacking torque measurement  
-- Deliver results in operator-friendly tools integrated with existing workflows and PI Vision  
+- Deliver results in operator-friendly tools integrated with existing workflows
 
 ---
 
@@ -33,7 +32,7 @@ The platform combines:
 - Derived Hydraulic/Ideal Power ratios and percent-change features to detect instability patterns associated with shaft failure  
 - Enabled immediate snapped-shaft classification, preventing diagnostic delays and unnecessary flush operations  
 - Validated performance against historical shaft failures and chemical stimulation events  
-- Delivered interactive Plotly dashboards for engineers and PI Vision displays mapping subsurface-to-plant flow paths using mass balance and P&ID data  
+- Delivered interactive Plotly dashboards for engineers to visualize data
 
 ---
 
@@ -41,7 +40,7 @@ The platform combines:
 - Analyzed the full electromechanical chain:  
   **VFD outputs → step-up transformers → downhole 3-phase induction motor → surface transformers and junction boxes**
 - Connected power electronics and control systems concepts to measured signals (current, frequency, delivered hydraulic power)  
-- Studied how voltage conversion and control loop dynamics affect ESP response, torque behavior, and signal stability  
+- Studied how voltage conversion and control loop dynamics affect ESP response, power behavior, and signal stability  
 
 ---
 
@@ -49,7 +48,6 @@ The platform combines:
 - Immediate failure classification eliminated hours of troubleshooting per event  
 - Reduced downtime and prevented unnecessary boiler feedwater flushes  
 - Contributed to an estimated annual savings of \$2.5 million through early failure detection and streamlined maintenance  
-- Operations visibility: PI Vision dashboards allowed engineers to quickly locate bottlenecks and recover up to \$18,000/hr in lost production during certain events  
 
 ---
 
